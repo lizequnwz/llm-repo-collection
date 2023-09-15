@@ -16,6 +16,8 @@ Collection of noteworthy LLMs Repositories and Resources
 - [SuperAgent](https://github.com/homanp/superagent)
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter)
 ## Resources (Slides, Documents, Links, and etc.)
+- 小木头
+  - [GitHub](https://github.com/sugarforever)
 - 沧海九粟 (OpenAI, Langchain)
   - [Bilibili](https://space.bilibili.com/28357052/video)
   - [Github](https://github.com/webup/agi-talks)
