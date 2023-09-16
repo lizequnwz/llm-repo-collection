@@ -12,9 +12,16 @@ Collection of noteworthy LLMs Repositories and Resources
 - https://github.com/HardKothari/ai_experiments/tree/main/streamlit_apps
 
 ### Agents
+- [LangChain Tutorial w/ Agents](https://github.com/samwit/langchain-tutorials)
 - [List of AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [SuperAgent](https://github.com/homanp/superagent)
+- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI/tree/main)
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT/tree/main)
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter)
+
+### Open-source LLM
+- [LLM Tutorials](https://github.com/samwit/llm-tutorials/tree/main)
+- 
 ## Resources (Slides, Documents, Links, and etc.)
 - 小木头
   - [GitHub](https://github.com/sugarforever)
